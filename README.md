@@ -2,7 +2,7 @@
 HTML personal landing page. Made via HTML only and includes certain requirements.
 
 ## Requirements
-- [ x ] Header
+- [x] Header
 - [ ] Footer
 - [ ] Navigation
 - [ ] Branding
