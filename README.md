@@ -14,7 +14,7 @@ HTML personal landing page. Made via HTML only and includes certain requirements
 - [ ] About Me Section:
     - [ ] include more detail information about site and why site created
     - [ ] include links to other websites where people can learn more about self
-- [ ] Write Two Paragraps:
+- [ ] Write Two Paragraphs:
     - [ ] TBD
     - [ ] TBD
 - [ ] Blog Post: 
