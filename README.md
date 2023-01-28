@@ -6,8 +6,8 @@ HTML personal landing page. Made via HTML only and includes certain requirements
 <details>
     <summary>Requirements</summary>
 
-- [ ] Header: 
-    - [ ] include image and text that clearly tell visitors what they can find on site
+- [x] Header: 
+    - [x] include image and text that clearly tell visitors what they can find on site
 - [ ] Introduction:
     - [ ] include details about purpose and mission of site
     - [ ] include info about self and why created the site
