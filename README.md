@@ -1,7 +1,10 @@
 # CO - Personal Landing Page
 HTML personal landing page. Made via HTML only and includes certain requirements.
 
-## Requirements
+# 
+
+<details>
+    <summary>Requirements</summary>
 - [ ] Header: 
     - [ ] include image and text that clearly tell visitors what they can find on site
 - [ ] Introduction:
@@ -23,5 +26,6 @@ HTML personal landing page. Made via HTML only and includes certain requirements
 - [ ] Branding
 - [ ] Search Functionality
 - [ ] Footer
+</details>
 
 
