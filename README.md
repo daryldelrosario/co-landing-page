@@ -5,7 +5,7 @@ HTML personal landing page. Made via HTML only and includes certain requirements
 
 <details>
     <summary>Requirements</summary>
-    
+
 - [ ] Header: 
     - [ ] include image and text that clearly tell visitors what they can find on site
 - [ ] Introduction:
@@ -23,9 +23,9 @@ HTML personal landing page. Made via HTML only and includes certain requirements
 - [ ] Content area with text and image:
     - [ ] explains what you do and how you do it
 - [ ] Call-to-action button encouraging sign up for something
-- [ ] Navigation
-- [ ] Branding
-- [ ] Search Functionality
+- [x] Navigation
+- [x] Branding
+- [x] Search Functionality
 - [ ] Footer
 </details>
 
