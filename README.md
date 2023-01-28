@@ -8,15 +8,15 @@ HTML personal landing page. Made via HTML only and includes certain requirements
 
 - [x] Header: 
     - [x] include image and text that clearly tell visitors what they can find on site
-- [ ] Introduction:
-    - [ ] include details about purpose and mission of site
-    - [ ] include info about self and why created the site
+- [x] Introduction:
+    - [x] include details about purpose and mission of site
+    - [x] include info about self and why created the site
 - [ ] About Me Section:
     - [ ] include more detail information about site and why site created
     - [ ] include links to other websites where people can learn more about self
 - [ ] Write Two Paragraphs:
-    - [ ] TBD
-    - [ ] TBD
+    - [ ] about intro section
+    - [ ] about about me section
 - [ ] Blog Post: 
     - [ ] about learnt so far
     - [ ] found most interesting
