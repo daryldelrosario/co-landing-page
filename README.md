@@ -22,11 +22,11 @@ HTML personal landing page. Made via HTML only and includes certain requirements
     - [x] found most interesting
 - [x] Content area with text and image:
     - [x] explains what you do and how you do it
-- [ ] Call-to-action button encouraging sign up for something
+- [x] Call-to-action button encouraging sign up for something
 - [x] Navigation
 - [x] Branding
 - [x] Search Functionality
-- [ ] Footer
+- [x] Footer
 </details>
 
 
