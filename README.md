@@ -2,7 +2,12 @@
 HTML personal landing page. Made via HTML only and includes certain requirements.
 
 ## <a href="https://daryldelrosario.github.io/co-landing-page/">Live Demo</a>
-<kbd><img src="./resources/co-landing-page-ld.gif" alt="live demo gif"></kbd>
+<kbd><a href="https://daryldelrosario.github.io/co-landing-page/"><img src="./resources/co-landing-page-ld.gif" alt="live demo gif"></a></kbd>
+
+## Features
+- Embedded radio station below nav bar
+- Embedded iframe to full HTML code
+- Form action mailto:
 
 <details>
     <summary>Requirements</summary>
