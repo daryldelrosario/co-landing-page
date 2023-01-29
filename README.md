@@ -1,7 +1,8 @@
 # CO - Personal Landing Page
 HTML personal landing page. Made via HTML only and includes certain requirements.
 
-# 
+## <a href="https://daryldelrosario.github.io/co-landing-page/">Live Demo</a>
+<kbd><img src="./resources/co-landing-page-ld.gif" alt="live demo gif"></kbd>
 
 <details>
     <summary>Requirements</summary>
