@@ -20,8 +20,8 @@ HTML personal landing page. Made via HTML only and includes certain requirements
 - [x] Blog Post: 
     - [x] about learnt so far
     - [x] found most interesting
-- [ ] Content area with text and image:
-    - [ ] explains what you do and how you do it
+- [x] Content area with text and image:
+    - [x] explains what you do and how you do it
 - [ ] Call-to-action button encouraging sign up for something
 - [x] Navigation
 - [x] Branding
